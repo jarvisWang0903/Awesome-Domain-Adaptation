@@ -25,9 +25,16 @@ Notes for daily reading papers
 
 ## Unread
 
+#### ICCV 2019
+
+| No. | title | pdf | code | Brief| 
+| :-: | :-: | :-: | :-: | :-:|
+|1. | ACE: Adapting to Changing Environments for Semantic Segmentation |[ICCV](https://arxiv.org/abs/1908.01925) | [empty]() | DA - Segmentation |
+|2. | Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation|[ICCV](https://arxiv.org/abs/1908.01925) | [empty]() | DA - Segmentation |
+
 
 #### ArXiv
 
 | No. | title | pdf | code | Brief| Date |
 | :-: | :-: | :-: | :-: | :-:| :-:|
-|1. | Attractor Distract: Exploit the Margin of Open Set |[pdf](https://arxiv.org/abs/1908.01925) | [empty]() | Open Set DA - classification | Aug. 7th,2019 |
+|1. | Attractor Distract: Exploit the Margin of Open Set |[ArXiv](https://arxiv.org/abs/1908.01925) | [empty]() | Open Set DA - classification | Aug. 7th,2019 |
