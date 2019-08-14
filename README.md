@@ -33,7 +33,6 @@ Notes for daily reading papers
 
 | No. | title | pdf | code | Brief| 
 | :-: | :-: | :-: | :-: | :-:|
-
 |1. | Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation|[ICCV](https://arxiv.org/abs/1908.01925) | [empty]() | DA - Segmentation |
 
 #### CVPR 2019
