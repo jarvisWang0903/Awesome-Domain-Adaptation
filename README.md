@@ -34,6 +34,7 @@ Notes for daily reading papers
 | No. | title | pdf | code | Brief| 
 | :-: | :-: | :-: | :-: | :-:|
 |1. | Significance-aware Information Bottleneck for Domain Adaptive Semantic Segmentation|[ICCV](https://arxiv.org/abs/1908.01925) | [empty]() | DA - Segmentation |
+|2. | Domain Intersection and Domain Difference|[ICCV](https://arxiv.org/abs/1908.11628)|[pytorch](https://github.com/sagiebenaim/DomainIntersectionDifference)|DA|
 
 #### CVPR 2019
 
