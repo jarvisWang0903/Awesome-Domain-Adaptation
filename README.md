@@ -16,14 +16,6 @@ Notes for daily reading papers
 | 9. | ACE: Adapting to Changing Environments for Semantic Segmentation |[ICCV](https://arxiv.org/abs/1908.01925) | [empty]() |DA - Segmentation|
 
 
-#### ArXiv
-
-
-
-#### CVPR 2019
-
-1. 
-
 
 ## Ready to Start
 
