@@ -1,7 +1,7 @@
 # Domain-Adaptation-PaperReading
 Notes for daily reading papers
 
-## Have read
+## Finished
 
 | No. | title | pdf | code | Brief| 
 | --- | --- | --- | --- | --- |
@@ -25,7 +25,7 @@ Notes for daily reading papers
 1. 
 
 
-## Unread
+## Ready to Start
 
 
 
