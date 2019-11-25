@@ -27,3 +27,4 @@ Notes for daily reading papers
 |3. | Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation |[ICCV 2019](https://arxiv.org/pdf/1909.00589.pdf)|[no]()|DA|
 |4. | Multimodal Unsupervised Image-to-Image Translation|[ECCV 2018](https://arxiv.org/pdf/1804.04732.pdf) | [pytorch](https://github.com/NVlabs/MUNIT) | image-2-image |
 |5. | Attractor Distract: Exploit the Margin of Open Set |[ArXiv](https://arxiv.org/abs/1908.01925) | [empty]() | Open Set DA - classification | Aug. 7th,2019 |
+|6. | Domain Adaptation for Semantic Segmentation with Maximum Squares Loss |[ICCV 2019](https://arxiv.org/abs/1909.13589) | [empty]() |  |  |
