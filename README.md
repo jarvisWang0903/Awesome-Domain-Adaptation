@@ -13,7 +13,9 @@ Notes for daily reading papers
 | 6. |DADA: Depth-aware Domain Adaptation in Semantic Segmentation|[CVPR 2019 Poster]()||DA - Segmentation|
 | 7. |Blending-target Domain Adaptation by Adversarial Meta-Adaptation Networks|[CVPR 2019 Oral]()|[code]()|DA - Classification|
 | 8. |Unsupervised Domain Adaptation for Semantic Segmentation via Class-Balanced Self-Training|[ECCV 2018]() | [empty]()|DA - Segmentation|
-| 9. | ACE: Adapting to Changing Environments for Semantic Segmentation |[ICCV](https://arxiv.org/abs/1904.06268) | [pytorch](https://github.com/JarvisLL/ACE) |DA - Segmentation|
+| 9. | ACE: Adapting to Changing Environments for Semantic Segmentation |[ICCV 2019](https://arxiv.org/abs/1904.06268) | [pytorch](https://github.com/JarvisLL/ACE) |DA - Segmentation|
+| 10. | Domain Adaptation for Object Detection via Style Consistency |[BMVC 2019](https://arxiv.org/abs/1911.10033) | [empty]() |DA - Object Detection|
+
 
 
 
@@ -27,4 +29,8 @@ Notes for daily reading papers
 |3. | Self-Ensembling with GAN-based Data Augmentation for Domain Adaptation in Semantic Segmentation |[ICCV 2019](https://arxiv.org/pdf/1909.00589.pdf)|[no]()|DA|
 |4. | Multimodal Unsupervised Image-to-Image Translation|[ECCV 2018](https://arxiv.org/pdf/1804.04732.pdf) | [pytorch](https://github.com/NVlabs/MUNIT) | image-2-image |
 |5. | Attractor Distract: Exploit the Margin of Open Set |[ArXiv](https://arxiv.org/abs/1908.01925) | [empty]() | Open Set DA - classification | Aug. 7th,2019 |
-|6. | Domain Adaptation for Semantic Segmentation with Maximum Squares Loss |[ICCV 2019](https://arxiv.org/abs/1909.13589) | [empty]() |  |  |
+|6. | Domain Adaptation for Semantic Segmentation with Maximum Squares Loss |[ICCV 2019](https://arxiv.org/abs/1909.13589) | [empty]() |  |7. | Unsupervised Domain Adaptation by Optical Flow Augmentation in Semantic Segmentation|[arxiv](https://arxiv.org/abs/1911.09652) | [empty]() | || 
+|8. | Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling|[arxiv](https://arxiv.org/abs/1911.07982) | [empty]() | || 
+|9. | Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning|[arxiv](https://arxiv.org/abs/1911.07158) | [empty]() | || 
+
+
