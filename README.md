@@ -32,5 +32,5 @@ Notes for daily reading papers
 |6. | Domain Adaptation for Semantic Segmentation with Maximum Squares Loss |[ICCV 2019](https://arxiv.org/abs/1909.13589) | [empty]() |  |7. | Unsupervised Domain Adaptation by Optical Flow Augmentation in Semantic Segmentation|[arxiv](https://arxiv.org/abs/1911.09652) | [empty]() | || 
 |8. | Unsupervised Domain Adaptation via Structured Prediction Based Selective Pseudo-Labeling|[arxiv](https://arxiv.org/abs/1911.07982) | [empty]() | || 
 |9. | Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning|[arxiv](https://arxiv.org/abs/1911.07158) | [empty]() | || 
-
-
+|10. | Discriminative Adversarial Domain Adaptation |[AAAI 2020](https://arxiv.org/abs/1911.12036) | [empty]() | || 
+|11. | Class-Conditional Domain Adaptation on Semantic Segmentation |[arxiv](https://arxiv.org/abs/1911.11981) | [empty]() | ||
