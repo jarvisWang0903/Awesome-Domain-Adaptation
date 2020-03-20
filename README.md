@@ -34,3 +34,4 @@ Notes for daily reading papers
 |9. | Unsupervised Domain Adaptation for Object Detection via Cross-Domain Semi-Supervised Learning|[arxiv](https://arxiv.org/abs/1911.07158) | [empty]() | || 
 |10. | Discriminative Adversarial Domain Adaptation |[AAAI 2020](https://arxiv.org/abs/1911.12036) | [empty]() | || 
 |11. | Class-Conditional Domain Adaptation on Semantic Segmentation |[arxiv](https://arxiv.org/abs/1911.11981) | [empty]() | ||
+|12. | Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation |[CVPR 2020](https://arxiv.org/abs/2003.00867) | [empty]() | ||
