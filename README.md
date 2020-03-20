@@ -37,4 +37,4 @@ Notes for daily reading papers
 |11. | Class-Conditional Domain Adaptation on Semantic Segmentation |[arxiv](https://arxiv.org/abs/1911.11981) | [empty]() | ||
 |12. | Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation |[CVPR 2020](https://arxiv.org/abs/2003.00867) | [empty]() | ||
 |13. | Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation| [CVPR 2020](https://arxiv.org/abs/2003.08040) | [empty]()| ||
-|14. | Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation| [CVPR 2020] |[empty]()| ||
+|14. | Action Segmentation with Joint Self-Supervised Temporal Domain Adaptation| [CVPR 2020](https://arxiv.org/abs/2003.02824) |[empty]()| ||
