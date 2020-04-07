@@ -7,7 +7,7 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 - [Domain adaptation]()
 	- [0.Latest Publications](#0latest-publications)
 	- [1.Introduction and Tutorials](#1introduction-and-tutorials)
-	- [2.Transfer Learning Areas and Papers](#2domain-adaptation-areas-and-papers)
+	- [2.Domain Adaptation Areas and Papers](#2domain-adaptation-areas-and-papers)
 	- [7.Datasets and Benchmarks](#7datasets-and-benchmarks)
 - - -
 
@@ -17,11 +17,21 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
-
 - - -
 
 ## 1.Introduction and Tutorials
 
 ## 2.Domain Adaptation Areas and Papers
 
+Related articles by research areas:
+- [Classification](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Classification.md)
+- [Semantic Segmentation](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Semantic%20Segmentation.md)
+- [Detection](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Detection.md)
+- ...
+
+
+
+
 ## 3.Datasets and Benchmarks
+
+Please see [HERE](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Datasets%20and%20benchmarks.md) for the popular domain adaptation**datasets and certain benchmark** results.
