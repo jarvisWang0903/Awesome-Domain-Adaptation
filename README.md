@@ -21,6 +21,9 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 ## 1.Introduction and Tutorials
 
+- 2019/07/22 ICML-19 [Bridging Theory and Algorithm for Domain Adaptation](https://arxiv.org/abs/1904.05801)
+
+
 ## 2.Domain Adaptation Areas and Papers
 
 Related articles by research areas:
