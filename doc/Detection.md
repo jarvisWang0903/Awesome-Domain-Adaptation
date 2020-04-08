@@ -19,6 +19,11 @@
 
 ### 1.1.2. Deep / Adversarial Methods
 
+- 2020/03/22 arxiv [Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection](https://arxiv.org/abs/2003.08777) [code]
+
+- 2019/12/25 CVPR-19 [Exploring Object Relation in Mean Teacher for Cross-Domain Detection](https://arxiv.org/abs/1904.11245) [code](https://github.com/caiqi/mean-teacher-cross-domain-detection)
+    - TODO
+
 - CVPR-19 [Adapting Object Detectors via Selective Cross-Domain Alignment](https://www.researchgate.net/publication/338512599_Adapting_Object_Detectors_via_Selective_Cross-Domain_Alignment) [code]
     - Detection
 

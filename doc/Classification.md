@@ -53,10 +53,15 @@
     - TODO
 
 
-## 1.7. Universal Domain Adaptation 
+## 1.7. Universal Domain Adaptation
+
+- 2020/03/10 arxiv [Universal Domain Adaptation through Self Supervision](https://arxiv.org/abs/2002.07953) [code]
+    - TODO
 
 - CVPR-19 [Universal Domain Adaptation](https://youkaichao.github.io/files/cvpr2019/1628.pdf) [code](https://github.com/thuml/Universal-Domain-Adaptation)
     - TODO Mingsheng Long[] Group
 
 
 ## 1.8. Zero-shot / Few-shot Domain Adaptation
+
+-  2020/03/19 arxiv [Domain-Adaptive Few-Shot Learning](https://arxiv.org/abs/2003.08626)

@@ -40,6 +40,9 @@
 - 2019/08/18 ICCV-2019 [PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment](https://arxiv.org/abs/1908.06391) [code](https://github.com/kaixin96/PANet)
     - Few-shot
 
+- 2019/07/19 arxiv [Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1907.05570) [code]
+    - zero-shot
+
 ## 1.5. Other Interesting Works
 
 - 2019/11/26 NIPS-19 [Self-Supervised Generalisation with Meta Auxiliary Learning](https://arxiv.org/abs/1901.08933)

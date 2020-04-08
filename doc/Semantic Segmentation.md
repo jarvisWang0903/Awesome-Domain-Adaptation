@@ -29,6 +29,9 @@
 	- Image translation(src-2-trg + trg-2-src), Cross-Domain Consistency 
 	- By leveraging image-toimage translation methods for data augmentation, our key insight is that while the translated images between domains may differ in styles, their predictions for the task should be consistent.
 
+- 2019/12/05 NIPS-19 [Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/1910.13049) [code](https://github.com/RogerZhangzz/CAG_UDA)
+    - **CAG-UDA**; TODO
+
 - 2019/08/19 ICCV-19 [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1904.01886) [code](https://github.com/valeoai/DADA)
     - **DADA**; Depth information;
 
@@ -46,10 +49,6 @@
 - 2019/04/17 CVPR-19 [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1811.12833) [code](https://github.com/valeoai/ADVENT)
   	- **ADVENT**; Entropy
 	- In this work, we address the task of unsupervised domain adaptation in semantic segmentation with losses based on the **entropy** of the pixel-wise predictions.
-
-- 2019/04/12 ICCV-19 [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/abs/1904.06268) [code](https://github.com/JarvisLL/ACE)
-	- **ACE**; Life-long; style-transfer
-	- We present ACE, a framework for semantic segmentation that dynamically adapts to changing environments over the time.
 
 - 2019/04/01 CVPR-19 Oral [Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation](https://arxiv.org/abs/1809.09478) [code](https://github.com/RoyalVane/CLAN)
 	- **CLAN**; Category-level joint distribution, adaptive adversarial loss
@@ -82,9 +81,19 @@
 
 ## 1.2. Domain Generalization
 
+- 2019/09/02 arxiv [Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization without Accessing Target Domain Data](https://arxiv.org/abs/1909.00889)
+    - **DRPC** Generalization, No target data, GAN, data augmentation
+
 ## 1.3. Multi-source Domain Adaptation
 
 ## 1.4. Multi-target Domain Adaptation
+
+- 2019/04/12 ICCV-19 [ACE: Adapting to Changing Environments for Semantic Segmentation](https://arxiv.org/abs/1904.06268) [code](https://github.com/JarvisLL/ACE)
+	- **ACE**; Life-long; style-transfer
+	- We present ACE, a framework for semantic segmentation that dynamically adapts to changing environments over the time.
+
+- 2018/02/24 ICRA-18 [Incremental Adversarial Domain Adaptation for Continually Changing Environments](https://arxiv.org/abs/1712.07436) [code](https://github.com/yamad07/IADA)
+    - **IADA**; Continually learning
 
 ## 1.5. OpenSet Domain Adaptation
 
