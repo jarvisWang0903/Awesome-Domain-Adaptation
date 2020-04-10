@@ -22,7 +22,8 @@
     - Pyramid Curriculums
 
 ### 1.1.2. Deep / Adversarial Methods
-	- 2020/03/18 CVPR-20 [Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2003.08040) [code]()
+	
+- 2020/03/18 CVPR-20 [Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2003.08040) [code]()
 	- Based on the observation that stuff categories usually share similar appearances across images of different domains while things (i.e. object instances) have much larger differences, we propose to improve the semantic-level alignment with different strategies for stuff regions and for things.
 
 - 2020/01/09 CVPR-2019 [CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency](https://arxiv.org/abs/2001.03182) [code](https://github.com/YunChunChen/CrDoCo-pytorch)
