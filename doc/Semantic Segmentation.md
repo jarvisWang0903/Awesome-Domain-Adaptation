@@ -14,7 +14,8 @@
 
 ## 1.1.General Domain Adaptation
 
-
+- 2018/12/14 ICCV-17 [Curriculum Domain Adaptation for Semantic Segmentation of Urban Scenes](https://arxiv.org/abs/1707.09465) [code](https://github.com/YangZhang4065/AdaptationSeg)
+    - **Curriculum DA**
 
 ### 1.1.1. Traditional Methods
 
@@ -22,7 +23,11 @@
     - Pyramid Curriculums
 
 ### 1.1.2. Deep / Adversarial Methods
-	- 2020/03/18 CVPR-20 [Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2003.08040) [code]()
+
+- 2020/04/05 arxiv [ADVERSARIAL-PREDICTION GUIDED MULTI-TASK ADAPTATION FOR SEMANTIC SEGMENTATION OF ELECTRON MICROSCOPY IMAGES](https://arxiv.org/abs/2004.02134) [code]
+    - Electron microscopy (EM) image analysis;
+
+- 2020/03/18 CVPR-20 [Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2003.08040) [code]()
 	- Based on the observation that stuff categories usually share similar appearances across images of different domains while things (i.e. object instances) have much larger differences, we propose to improve the semantic-level alignment with different strategies for stuff regions and for things.
 
 - 2020/01/09 CVPR-2019 [CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency](https://arxiv.org/abs/2001.03182) [code](https://github.com/YunChunChen/CrDoCo-pytorch)
@@ -32,11 +37,20 @@
 - 2019/12/05 NIPS-19 [Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/1910.13049) [code](https://github.com/RogerZhangzz/CAG_UDA)
     - **CAG-UDA**; TODO
 
+- 2019/11/28 arxiv [Class-Conditional Domain Adaptation on Semantic Segmentation](https://arxiv.org/abs/1911.11981) [code]
+    - **CCDA**; TODO
+
+- 2019/09/30 ICCV-19 [Domain Adaptation for Semantic Segmentation with Maximum Squares Loss](https://arxiv.org/abs/1909.13589) [code](https://github.com/ZJULearning/MaxSquareLoss)
+    - **MaxSquareLoss**; TODO
+
 - 2019/08/19 ICCV-19 [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1904.01886) [code](https://github.com/valeoai/DADA)
     - **DADA**; Depth information;
 
 - 2019/08/08 MICCAI-19 [Constrained domain adaptation for segmentation](https://arxiv.org/abs/1908.02996)
 	- **TODO** Medical image Segmentation
+
+- 2019/07/29 arxiv [Regularizing Proxies with Multi-Adversarial Training for Unsupervised Domain-Adaptive Semantic Segmentation](https://arxiv.org/abs/1907.12282) [code]
+    - **TODO**
 
 - 2019/05/13 CVPR-19 [DLOW: Domain Flow for Adaptation and Generalization](https://arxiv.org/abs/1812.05418) [code](https://github.com/ETHRuiGong/DLOW)
 	- **DLOW**; generating a continuous sequence of intermediate domains
@@ -47,7 +61,7 @@
 	- Using the bidirectional learning, the image translation model and the segmentation adaptation model can be learned alternatively and promote to each other.
 
 - 2019/04/17 CVPR-19 [ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1811.12833) [code](https://github.com/valeoai/ADVENT)
-  	- **ADVENT**; Entropy
+	- **ADVENT**; Entropy
 	- In this work, we address the task of unsupervised domain adaptation in semantic segmentation with losses based on the **entropy** of the pixel-wise predictions.
 
 - 2019/04/01 CVPR-19 Oral [Taking A Closer Look at Domain Shift: Category-level Adversaries for Semantics Consistent Domain Adaptation](https://arxiv.org/abs/1809.09478) [code](https://github.com/RoyalVane/CLAN)
@@ -61,7 +75,7 @@
 	- **DISE**; Domain Invariant Structure Extraction; disentangle structure and texture;
 	- we propose a Domain Invariant Structure Extraction (DISE) framework to disentangle images into domain-invariant structure and domain-specific texture representations, which can further realize imagetranslation across domains and enable label transfer to improve segmentation performance
 
-- 2019/02/18 ICLR-19 [SPIGAN: Privileged Adversarial Learning from Simulation] [code]
+- 2019/02/18 ICLR-19 [SPIGAN: Privileged Adversarial Learning from Simulation]() [code]
 	- **TODO**
 
 - 2019/01/13 CVPR-19 [Learning Semantic Segmentation from Synthetic Data: A Geometrically Guided Input-Output Adaptation Approach](https://arxiv.org/abs/1812.05040) [code](https://github.com/yuhuayc/gio-ada)
@@ -85,6 +99,11 @@
     - **DRPC** Generalization, No target data, GAN, data augmentation
 
 ## 1.3. Multi-source Domain Adaptation
+
+- 2019/10/27 NIPS-19 [Multi-source Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/1910.12181) [code](https://github.com/Luodian/MADAN)
+    - **MADAN** TODO
+    - Extension [MADAN: Multi-source Adversarial Domain Aggregation Network for Domain Adaptation](https://arxiv.org/abs/2003.00820)
+
 
 ## 1.4. Multi-target Domain Adaptation
 
