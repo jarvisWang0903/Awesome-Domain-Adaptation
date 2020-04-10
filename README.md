@@ -27,7 +27,7 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 	- TODO;
 	
 - 2020/04/09 CVPR-20 [Universal Source-Free Domain Adaptation](https://arxiv.org/abs/2004.04393)
-	-TODO
+	- TODO;
 
 - - -
 
