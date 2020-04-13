@@ -17,6 +17,18 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+- 2020/04/09 arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093) 
+	- TODO
+	
+- 2020/04/09 arxiv [MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](https://arxiv.org/abs/2001.06902)
+	- TOD; Multi-task
+
+- 2020/04/09 arxiv [Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2004.04398) 
+	- TODO;
+	
+- 2020/04/09 CVPR-20 [Universal Source-Free Domain Adaptation](https://arxiv.org/abs/2004.04393)
+	- TODO;
+
 - - -
 
 ## 1.Introduction and Tutorials
