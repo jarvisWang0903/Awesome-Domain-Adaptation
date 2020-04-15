@@ -17,6 +17,42 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+- 2020/04/14 CVPR 2020 workshop [StandardGAN: Multi-source Domain Adaptation for Semantic Segmentation of Very High Resolution Satellite Images by Data Standardization](https://arxiv.org/abs/2004.06402)
+	- TODO
+
+- 2020/04/14 arxiv [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773)
+        - TODO
+
+- 2020/04/13 arxiv [Deep Siamese Domain Adaptation Convolutional Neural Network for Cross-domain Change Detection in Multispectral Images](https://arxiv.org/abs/2004.05745)
+	- TODO 
+
+- 2020/04/13 arxiv [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/abs/2004.02757)
+        - TODO
+
+- 2020/04/13 arxiv [Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation](https://arxiv.org/abs/2004.06042)
+	- TODO
+
+- 2020/04/12 arxiv [PANDA: Prototypical Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.13274)
+        - TODO
+
+- 2020/04/11 arxiv [FDA: Fourier Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2004.05498)
+	- TODO
+
+- 2020/04/10 IJCNN [Discriminative Joint Probability Maximum Mean Discrepancy (DJP-MMD) for Domain Adaptation](https://arxiv.org/abs/1912.00320)
+	- TODO 
+
+- 2020/04/10 CVPR-20 workshop [MA 3 : Model Agnostic Adversarial Augmentation for Few Shot learning](https://arxiv.org/abs/2004.05100)
+	- TODO
+	
+- 2020/04/10 T-PAMI-20 [Deep Residual Correction Network for Partial Domain Adaptation](https://arxiv.org/abs/2004.04914)
+	- TODO
+
+- 2020/04/10 arxiv [Phase Consistent Ecological Domain Adaptation](https://arxiv.org/abs/2004.04923)
+	-TODO
+
+- 2020/04/10 CRV [Domain Generalization via Universal Non-volume Preserving Models](https://arxiv.org/abs/1905.13040)
+        - TODO
+
 - 2020/04/09 arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093) 
 	- TODO
 	
