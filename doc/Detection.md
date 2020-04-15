@@ -29,7 +29,8 @@
 
 - CVPR-19 [Automatic adaptation of object detectors to new domains using self-training](https://arxiv.org/abs/1904.07305) [code]
     - TODO Detection
-
+- CVPR-19 [A Robust Learning Approach to Domain Adaptive Object Detection](https://arxiv.org/pdf/1904.02361.pdf)
+    - Proposed a probalistic framework to generate and refine the noisy labels from the target domain to train the model.
 ## 1.2. Domain Generalization
 
 ## 1.3. Multi-source Domain Adaptation
