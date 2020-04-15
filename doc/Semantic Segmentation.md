@@ -44,6 +44,9 @@
 - 2019/09/30 ICCV-19 [Domain Adaptation for Semantic Segmentation with Maximum Squares Loss](https://arxiv.org/abs/1909.13589) [code](https://github.com/ZJULearning/MaxSquareLoss)
     - **MaxSquareLoss**; TODO
 
+- 2019/08-27 ICCV-19 oral [Confidence Regularized Self-Training](https://arxiv.org/abs/1908.09822) [code](https://github.com/yzou2/CRST)
+    - **CRST**; TODO  
+
 - 2019/08/19 ICCV-19 [DADA: Depth-aware Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/1904.01886) [code](https://github.com/valeoai/DADA)
     - **DADA**; Depth information;
 
