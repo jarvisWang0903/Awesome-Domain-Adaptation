@@ -20,4 +20,4 @@
 * [Toyota Motor Europe (TME) Motorway Dataset](http://cmp.felk.cvut.cz/data/motorway/)
 * [BoxCar](https://medusa.fit.vutbr.cz/traffic/datasets/)
 * [Stanford Cars](http://ai.stanford.edu/~jkrause/cars/car_dataset.html)
-* [MMLAB comprehensive Cars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/)
+* [MMLAB Comprehensive Cars](http://mmlab.ie.cuhk.edu.hk/datasets/comp_cars/)
