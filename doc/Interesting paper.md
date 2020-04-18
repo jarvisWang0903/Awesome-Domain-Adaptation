@@ -5,7 +5,9 @@
   - [1.2. Life-long Learing](#12-life-long-learing)
   - [1.3. GAN](#13-gan)
   - [1.4. zero / Few-shot Learning](#14-zero--few-shot-learning)
-  - [1.5. Other Interesting Works](#15-other-interesting-works)
+  - [1.5. Multi-task learning](#15-multi-task-learning)
+  - [1.6. Representation Learning](#16-representation-learning)
+  - [1.7. Other Interesting Works](#17-other-interesting-works)
 
 ---
 
@@ -26,6 +28,9 @@
 
 ## 1.3. GAN
 
+- 2020/04/16 ACM MM [Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation](https://arxiv.org/abs/1908.00999) 
+	- TODO
+
 - 2019/08/07 arxiv [I Bet You Are Wrong: Gambling Adversarial Networks for Structured Semantic Segmentation](https://arxiv.org/abs/1908.02711)
     - TODO GAN, Semantic Segmentation
 
@@ -37,13 +42,30 @@
 
 ## 1.4. zero / Few-shot Learning
 
+- 2020/04/10 CVPR-20 workshop [MA 3 : Model Agnostic Adversarial Augmentation for Few Shot learning](https://arxiv.org/abs/2004.05100)
+	- TODO
+
 - 2019/08/18 ICCV-2019 [PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment](https://arxiv.org/abs/1908.06391) [code](https://github.com/kaixin96/PANet)
     - Few-shot
 
 - 2019/07/19 arxiv [Dual Adversarial Semantics-Consistent Network for Generalized Zero-Shot Learning](https://arxiv.org/abs/1907.05570) [code]
     - zero-shot
 
-## 1.5. Other Interesting Works
+## 1.5. Multi-task learning
+
+- 2020/04/09 arxiv [MTI-Net: Multi-Scale Task Interaction Networks for Multi-Task Learning](https://arxiv.org/abs/2001.06902)
+	- TOD; Multi-task
+
+## 1.6. Representation Learning
+
+- 2020/04/16 arxiv [A Cyclically-Trained Adversarial Network for Invariant Representation Learning](https://arxiv.org/abs/1906.09313)
+	- TODO
+
+
+- 2020/04/13 arxiv [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/abs/2004.02757)
+	- TODO
+
+## 1.7. Other Interesting Works
 
 - 2019/11/26 NIPS-19 [Self-Supervised Generalisation with Meta Auxiliary Learning](https://arxiv.org/abs/1901.08933)
     - TODO

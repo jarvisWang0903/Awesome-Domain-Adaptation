@@ -19,6 +19,12 @@
 
 ### 1.1.2. Deep / Adversarial Methods
 
+- 2020/04/13 arxiv [Deep Siamese Domain Adaptation Convolutional Neural Network for Cross-domain Change Detection in Multispectral Images](https://arxiv.org/abs/2004.05745)
+	- TODO 
+
+- 2020/04/09 arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093) 
+	- TODO
+
 - 2020/03/22 arxiv [Self-Guided Adaptation: Progressive Representation Alignment for Domain Adaptive Object Detection](https://arxiv.org/abs/2003.08777) [code]
 
 - 2019/12/25 CVPR-19 [Exploring Object Relation in Mean Teacher for Cross-Domain Detection](https://arxiv.org/abs/1904.11245) [code](https://github.com/caiqi/mean-teacher-cross-domain-detection)

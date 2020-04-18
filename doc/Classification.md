@@ -1,6 +1,7 @@
 # 1. Awesome Domain Adaptation For Semantic Segmentation Papers
 
 - [1. Awesome Domain Adaptation For Semantic Segmentation Papers](#1-awesome-domain-adaptation-for-semantic-segmentation-papers)
+  - [- 1.10. Source Free Domain Adaptation](#ul-li110-source-free-domain-adaptationli-ul)
   - [1.1.General Domain Adaptation](#11general-domain-adaptation)
     - [1.1.1. Traditional Methods](#111-traditional-methods)
     - [1.1.2. Deep / Adversarial Methods](#112-deep--adversarial-methods)
@@ -10,8 +11,9 @@
   - [1.5. Blending-target Domain Adaptation](#15-blending-target-domain-adaptation)
   - [1.6. OpenSet Domain Adaptation](#16-openset-domain-adaptation)
   - [1.7. Universal Domain Adaptation](#17-universal-domain-adaptation)
-  - [1.8. Zero-shot / Few-shot Domain Adaptation](#18-zero-shot--few-shot-domain-adaptation)
-
+  - [1.8. Partial Domain Adaptation](#18-partial-domain-adaptation)
+  - [1.9. Zero-shot / Few-shot Domain Adaptation](#19-zero-shot--few-shot-domain-adaptation)
+  - [1.10. Source Free Domain Adaptation](#110-source-free-domain-adaptation)
 ---
 
 ## 1.1.General Domain Adaptation
@@ -19,6 +21,12 @@
 ### 1.1.1. Traditional Methods
 
 ### 1.1.2. Deep / Adversarial Methods
+
+- 2020/04/12 arxiv [PANDA: Prototypical Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.13274)
+	- TODO
+
+- 2020/04/10 IJCNN [Discriminative Joint Probability Maximum Mean Discrepancy (DJP-MMD) for Domain Adaptation](https://arxiv.org/abs/1912.00320)
+	- TODO 
 
 - 2019/07/03 CVPR-19 [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/abs/1904.04663) [code](https://github.com/YBZh/SymNets)
     - **SymNets** TODO
@@ -34,7 +42,13 @@
 
 ## 1.2. Domain Generalization
 
+- 2020/04/10 CRV [Domain Generalization via Universal Non-volume Preserving Models](https://arxiv.org/abs/1905.13040)
+	- TODO
+
 ## 1.3. Multi-source Domain Adaptation
+
+- 2020/04/09 arxiv [Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2004.04398) 
+	- TODO;
 
 ## 1.4. Multi-target Domain Adaptation
 
@@ -62,6 +76,19 @@
     - TODO Mingsheng Long[] Group
 
 
-## 1.8. Zero-shot / Few-shot Domain Adaptation
+## 1.8. Partial Domain Adaptation
+
+- 2020/04/10 T-PAMI-20 [Deep Residual Correction Network for Partial Domain Adaptation](https://arxiv.org/abs/2004.04914)
+	- TODO
+
+## 1.9. Zero-shot / Few-shot Domain Adaptation
+
+- 2020/04/13 arxiv [Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation](https://arxiv.org/abs/2004.06042)
+	- TODO
 
 -  2020/03/19 arxiv [Domain-Adaptive Few-Shot Learning](https://arxiv.org/abs/2003.08626)
+
+## 1.10. Source Free Domain Adaptation
+
+- 2020/04/09 CVPR-20 [Universal Source-Free Domain Adaptation](https://arxiv.org/abs/2004.04393)
+	- TODO;

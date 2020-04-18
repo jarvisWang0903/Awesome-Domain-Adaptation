@@ -24,6 +24,19 @@
 
 ### 1.1.2. Deep / Adversarial Methods
 
+
+- 2020/04/16 CVPR Oral [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703)
+	- TODO
+
+- 2020/04/14 arxiv [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773)
+	- Focus on obtaining and selecting high-quality proxy labels by incorporating both the confidence of the class predictor and that from the adversarial discriminators. Discriminators not only work as a regularizer to encourage feature alignment but also provide an alternative confidence measure for generating proxy labels.
+
+- 2020/04/11 arxiv [FDA: Fourier Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2004.05498)
+	- TODO
+
+- 2020/04/10 arxiv [Phase Consistent Ecological Domain Adaptation](https://arxiv.org/abs/2004.04923)
+	-TODO
+
 - 2020/04/05 arxiv [ADVERSARIAL-PREDICTION GUIDED MULTI-TASK ADAPTATION FOR SEMANTIC SEGMENTATION OF ELECTRON MICROSCOPY IMAGES](https://arxiv.org/abs/2004.02134) [code]
     - Electron microscopy (EM) image analysis;
 
@@ -104,10 +117,12 @@
 
 ## 1.3. Multi-source Domain Adaptation
 
+- 2020/04/14 CVPR 2020 workshop [StandardGAN: Multi-source Domain Adaptation for Semantic Segmentation of Very High Resolution Satellite Images by Data Standardization](https://arxiv.org/abs/2004.06402)
+	- TODO
+
 - 2019/10/27 NIPS-19 [Multi-source Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/1910.12181) [code](https://github.com/Luodian/MADAN)
     - **MADAN** TODO
     - Extension [MADAN: Multi-source Adversarial Domain Aggregation Network for Domain Adaptation](https://arxiv.org/abs/2003.00820)
-
 
 ## 1.4. Multi-target Domain Adaptation
 
