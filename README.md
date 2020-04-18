@@ -18,13 +18,13 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 - **Weekly latest papers**
 
 - 2020/04/16 ACM MM [Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation](https://arxiv.org/abs/1908.00999) 
-        - TODO
+	- TODO
 
 - 2020/04/16 arxiv [A Cyclically-Trained Adversarial Network for Invariant Representation Learning](https://arxiv.org/abs/1906.09313)
-        - TODO
+	- TODO
 
 - 2020/04/16 CVPR Oral [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703)
-        - TODO
+	- TODO
 	
 
 - 2020/04/14 CVPR 2020 workshop [StandardGAN: Multi-source Domain Adaptation for Semantic Segmentation of Very High Resolution Satellite Images by Data Standardization](https://arxiv.org/abs/2004.06402)
