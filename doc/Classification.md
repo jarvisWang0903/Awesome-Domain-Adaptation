@@ -28,6 +28,9 @@
 - 2020/04/10 IJCNN [Discriminative Joint Probability Maximum Mean Discrepancy (DJP-MMD) for Domain Adaptation](https://arxiv.org/abs/1912.00320)
 	- TODO 
 
+- 2020/04/03 [Unsupervised Domain Adaptation with Progressive Domain Augmentation](https://arxiv.org/abs/2004.01735)
+	- TODO
+
 - 2019/07/03 CVPR-19 [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/abs/1904.04663) [code](https://github.com/YBZh/SymNets)
     - **SymNets** TODO
 
@@ -59,6 +62,9 @@
     - This Blending-target Domain Adaptation (BTDA) scenario commonly appears in practice and threatens the validities of most existing DA algorithms, due to the presence of domain gaps and categorical misalignments among these hidden sub-targets.
 
 ## 1.6. OpenSet Domain Adaptation
+
+- 2020/04/09 CVPR-20 [Towards Inheritable Models for Open-Set Domain Adaptation](https://arxiv.org/abs/2004.04388)
+	- TODO
 
 - 2019/08/10 ICCV-19 [Attract or Distract: Exploit the Margin of Open Set](https://arxiv.org/abs/1908.01925)
     - TODO
