@@ -18,6 +18,8 @@
 ### 1.1.1. Traditional Methods
 
 ### 1.1.2. Deep / Adversarial Methods
+- 2020/03/13 CVPR-19 [Harmonizing Transferability and Discriminability for Adapting Object Detectors](https://arxiv.org/abs/2003.06297)
+	- Propose three domain alignment mechanisms: hierarchical alignment with attention and contextual fusion alignment for instance alignment and add the interpolation of source and target features(New SOTA)
 
 - 2020/04/13 arxiv [Deep Siamese Domain Adaptation Convolutional Neural Network for Cross-domain Change Detection in Multispectral Images](https://arxiv.org/abs/2004.05745)
 	- TODO 
