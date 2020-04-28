@@ -17,6 +17,8 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+- 2020/04/24 IROS-20 [Explicit Domain Adaptation with Loosely Coupled Samples](https://arxiv.org/abs/2004.11995)
+
 - 2020/04/15 arxiv [Defining Benchmarks for Continual Few-Shot Learning](https://arxiv.org/abs/2004.11967)
 
 - 2020/04/15 arxiv [Extreme Consistency: Overcoming Annotation Scarcity and Domain Shifts](https://arxiv.org/abs/2004.11966)
@@ -29,7 +31,7 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - 2020/04/27 IJCAI-20 [Towards Accurate and Robust Domain Adaptation under Noisy Environments](https://arxiv.org/abs/2004.12529) 
 
-- * 2020/04/27 TPAMI [Maximum Density Divergence for Domain Adaptation](https://arxiv.org/abs/2004.12615)
+- \* 2020/04/27 TPAMI [Maximum Density Divergence for Domain Adaptation](https://arxiv.org/abs/2004.12615)
 
 - 2020/04/24 CVPR-20 [What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation](https://arxiv.org/abs/2004.11500)
 
