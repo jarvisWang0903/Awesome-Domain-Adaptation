@@ -17,6 +17,8 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+- 2020/04/29 MIDL-20 [An Auto-Encoder Strategy for Adaptive Image Segmentation](https://arxiv.org/abs/2004.13903)
+
 - 2020/04/24 IROS-20 [Explicit Domain Adaptation with Loosely Coupled Samples](https://arxiv.org/abs/2004.11995)
 
 - 2020/04/15 arxiv [Defining Benchmarks for Continual Few-Shot Learning](https://arxiv.org/abs/2004.11967)
