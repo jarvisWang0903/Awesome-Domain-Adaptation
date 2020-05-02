@@ -5,6 +5,7 @@
   - [1.1.General Domain Adaptation](#11general-domain-adaptation)
     - [1.1.1. Traditional Methods](#111-traditional-methods)
     - [1.1.2. Deep / Adversarial Methods](#112-deep--adversarial-methods)
+    - [1.1.3. Normalization Adaptation Methods](#113-normalization-methods)
   - [1.2. Domain Generalization](#12-domain-generalization)
   - [1.3. Multi-source Domain Adaptation](#13-multi-source-domain-adaptation)
   - [1.4. Multi-target Domain Adaptation](#14-multi-target-domain-adaptation)
@@ -42,6 +43,14 @@
 
 - 2019/04/25 CVPR-19 [Transferrable Prototypical Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/1904.11227) [code]
     - TODO 
+### 1.1.3. Normalization Adaptation Methods
+- 2019/10/12 NIPS-19 [Transferable Normalization: Towards Improving
+Transferability of Deep Neural Networks](https://papers.nips.cc/paper/8470-transferable-normalization-towards-improving-transferability-of-deep-neural-networks.pdf)
+
+- 2019/5/27 arxiv [Domain-Specific Batch Normalization for Unsupervised Domain Adaptation
+](https://arxiv.org/abs/1906.03950)
+
+- 2016/3/15 CVPR-16 [Revisiting Batch Normalization For Practical Domain Adaptation](https://arxiv.org/abs/1603.04779)
 
 ## 1.2. Domain Generalization
 
