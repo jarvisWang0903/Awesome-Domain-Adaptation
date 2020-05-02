@@ -44,8 +44,11 @@
 - 2019/04/25 CVPR-19 [Transferrable Prototypical Networks for Unsupervised Domain Adaptation](https://arxiv.org/abs/1904.11227) [code]
     - TODO 
 ### 1.1.3. Normalization Adaptation Methods
+
 - 2019/10/12 NIPS-19 [Transferable Normalization: Towards Improving
 Transferability of Deep Neural Networks](https://papers.nips.cc/paper/8470-transferable-normalization-towards-improving-transferability-of-deep-neural-networks.pdf)
+
+- 2018/11/18 ICCV-19 [Larger Norm More Transferable: An Adaptive Feature Norm Approach for Unsupervised Domain Adaptation](https://arxiv.org/abs/1811.07456)
 
 - 2019/5/27 arxiv [Domain-Specific Batch Normalization for Unsupervised Domain Adaptation
 ](https://arxiv.org/abs/1906.03950)
