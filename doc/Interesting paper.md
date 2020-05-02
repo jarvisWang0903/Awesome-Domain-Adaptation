@@ -28,8 +28,13 @@
 
 ## 1.3. GAN
 
+- 2020/03/30 CVPR-20 [Semi-supervised Learning for Few-shot Image-to-Image Translation](https://arxiv.org/abs/2003.13853)
+	- semisupervised img-2-img translation
+
 - 2020/04/16 ACM MM [Cycle In Cycle Generative Adversarial Networks for Keypoint-Guided Image Generation](https://arxiv.org/abs/1908.00999) 
 	- TODO
+
+- 2020/03/27 ICCV-19 [Deep CG2Real: Synthetic-to-Real Translation via Image Disentanglement](https://arxiv.org/abs/2003.12649)
 
 - 2019/08/07 arxiv [I Bet You Are Wrong: Gambling Adversarial Networks for Structured Semantic Segmentation](https://arxiv.org/abs/1908.02711)
     - TODO GAN, Semantic Segmentation
@@ -45,6 +50,12 @@
 - 2020/04/10 CVPR-20 workshop [MA 3 : Model Agnostic Adversarial Augmentation for Few Shot learning](https://arxiv.org/abs/2004.05100)
 	- TODO
 
+- 2020/04/01 arxiv [Self-Augmentation: Generalizing Deep Networks to Unseen Classes for Few-Shot Learning](https://arxiv.org/abs/2004.00251)
+
+
+- 2020/03/31 CVPR-20 [FGN: Fully Guided Network for Few-Shot Instance Segmentation](https://arxiv.org/abs/2003.13954)
+	- Few-Shot Instance Segmentation
+
 - 2019/08/18 ICCV-2019 [PANet: Few-Shot Image Semantic Segmentation with Prototype Alignment](https://arxiv.org/abs/1908.06391) [code](https://github.com/kaixin96/PANet)
     - Few-shot
 
@@ -58,12 +69,16 @@
 
 ## 1.6. Representation Learning
 
+
 - 2020/04/16 arxiv [A Cyclically-Trained Adversarial Network for Invariant Representation Learning](https://arxiv.org/abs/1906.09313)
 	- TODO
 
 
 - 2020/04/13 arxiv [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/abs/2004.02757)
 	- TODO
+
+
+- 2020/03/28 arxiv [Learning Invariant Representation for Unsupervised Image Restoration](https://arxiv.org/abs/2003.12769)
 
 ## 1.7. Other Interesting Works
 

@@ -25,11 +25,16 @@
 ### 1.1.2. Deep / Adversarial Methods
 
 
+- 2020/04/24 CVPR-20 [What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation](https://arxiv.org/abs/2004.11500)
+
 - 2020/04/16 CVPR Oral [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703)
 	- TODO
 
 - 2020/04/14 arxiv [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773)
 	- Focus on obtaining and selecting high-quality proxy labels by incorporating both the confidence of the class predictor and that from the adversarial discriminators. Discriminators not only work as a regularizer to encourage feature alignment but also provide an alternative confidence measure for generating proxy labels.
+
+- 2020/04/11  CVPR-20 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304)
+	- important; inter-Region
 
 - 2020/04/11 arxiv [FDA: Fourier Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2004.05498)
 	- TODO
@@ -40,7 +45,16 @@
 - 2020/04/05 arxiv [ADVERSARIAL-PREDICTION GUIDED MULTI-TASK ADAPTATION FOR SEMANTIC SEGMENTATION OF ELECTRON MICROSCOPY IMAGES](https://arxiv.org/abs/2004.02134) [code]
     - Electron microscopy (EM) image analysis;
 
-	
+- 2020/04/02 arxiv [Alleviating Semantic-level Shift: A Semi-supervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2004.00794)
+	- semi-supervised;
+
+
+- 2020/03/29 arxiv [Spatial Attention Pyramid Network for Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.12979)
+
+- 2020/03/30 arxiv [PANDA: Prototypical Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.13274)
+
+- 2020/03/27 arxiv [Generalizable Semantic Segmentation via Model-agnostic Learning and Target-specific Normalization](https://arxiv.org/abs/2003.12296)
+
 - 2020/03/18 CVPR-20 [Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2003.08040) [code]()
 	- Based on the observation that stuff categories usually share similar appearances across images of different domains while things (i.e. object instances) have much larger differences, we propose to improve the semantic-level alignment with different strategies for stuff regions and for things.
 
@@ -112,10 +126,22 @@
 
 ## 1.2. Domain Generalization
 
+- 2020/04/03 arxiv [Sequential Learning for Domain Generalization](https://arxiv.org/abs/2004.01377)
+	- Domain Gneralization
+
 - 2019/09/02 arxiv [Domain Randomization and Pyramid Consistency: Simulation-to-Real Generalization without Accessing Target Domain Data](https://arxiv.org/abs/1909.00889)
     - **DRPC** Generalization, No target data, GAN, data augmentation
 
 ## 1.3. Multi-source Domain Adaptation
+
+
+- 2020/04/22 arxiv [Representation Bayesian Risk Decompositions and Multi-Source Domain Adaptation](https://arxiv.org/abs/2004.10390)
+
+- 2020/04/19 arxiv [TriGAN: Image-to-Image Translation for Multi-Source Domain Adaptation](https://arxiv.org/abs/2004.08769)
+	- TODO; Multi-Source DA; 
+
+- 2020/03/29 arxiv [Mutual Learning Network for Multi-Source Domain Adaptation](https://arxiv.org/abs/2003.12944)
+	- Multi-Source 
 
 - 2020/04/14 CVPR 2020 workshop [StandardGAN: Multi-source Domain Adaptation for Semantic Segmentation of Very High Resolution Satellite Images by Data Standardization](https://arxiv.org/abs/2004.06402)
 	- TODO
@@ -136,6 +162,8 @@
 ## 1.5. OpenSet Domain Adaptation
 
 ## 1.6. Zero-shot / Few-shot Domain Adaptation
+
+- 2020/03/28 CVPR-20 [One-Shot Domain Adaptation For Face Generation](https://arxiv.org/abs/2003.12869)
 
 - 2019/10/07 CVPR-19 [Adaptive Confidence Smoothing for Generalized Zero-Shot Learning](https://arxiv.org/abs/1812.09903) [code]
 	- TODO 

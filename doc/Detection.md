@@ -18,6 +18,11 @@
 ### 1.1.1. Traditional Methods
 
 ### 1.1.2. Deep / Adversarial Methods
+
+- 2020/04/05  arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093)
+
+- 2020/03/28 CVPR-20 Oral [Cross-domain Detection via Graph-induced Prototype Alignment](https://arxiv.org/abs/2003.12849)
+
 - 2020/03/13 CVPR-19 [Harmonizing Transferability and Discriminability for Adapting Object Detectors](https://arxiv.org/abs/2003.06297)
 	- Propose three domain alignment mechanisms: hierarchical alignment with attention and contextual fusion alignment for instance alignment and add the interpolation of source and target features(New SOTA)
 

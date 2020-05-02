@@ -35,18 +35,14 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - :star: 2020/04/27 TPAMI [Maximum Density Divergence for Domain Adaptation](https://arxiv.org/abs/2004.12615)
 
-- 2020/04/24 CVPR-20 [What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation](https://arxiv.org/abs/2004.11500)
 
 - 2020/04/23 arxiv [Supervised Domain Adaptation: Were we doing Graph Embedding all along?](https://arxiv.org/abs/2004.11262)
 
 - 2020/04/23 arxiv [Metric-Learning-Assisted Domain Adaptation](https://arxiv.org/abs/2004.10963)
 
-- 2020/04/22 arxiv [Representation Bayesian Risk Decompositions and Multi-Source Domain Adaptation](https://arxiv.org/abs/2004.10390)
 
 - 2020/04/22 ICLR-20 Workshop [Deeply Uncertain: Comparing Methods of Uncertainty Quantification in Deep Learning Algorithms](https://arxiv.org/abs/2004.10710)
 
-- 2020/04/19 arxiv [TriGAN: Image-to-Image Translation for Multi-Source Domain Adaptation](https://arxiv.org/abs/2004.08769)
-	- TODO; Multi-Source DA; 
 
 - 2020/04/19 CVPR-20 [AD-Cluster: Augmented Discriminative Clustering for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2004.08787)
 	- TODO; clustring; DA for RE-ID
@@ -75,36 +71,16 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 - 2020/04/17 arxiv [IDDA: a large-scale multi-domain dataset for autonomous driving](https://arxiv.org/abs/2004.08298)
 	- dataset; multi-domain DA;
 
-- 2020/04/11  CVPR-20 [Inter-Region Affinity Distillation for Road Marking Segmentation](https://arxiv.org/abs/2004.05304)
-	- important; inter-Region
-	
-- 2020/04/12 arxiv [Efficient Deep Representation Learning by Adaptive Latent Space Sampling](https://arxiv.org/abs/2004.02757)
-	- Representation Learning;
-
 - 2020/04/09 CVPR-20 [Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection](https://arxiv.org/abs/2004.04725)
 	- Object Ddetection
 
-- 2020/04/05  arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093)
-
-- 2020/04/03 arxiv [Sequential Learning for Domain Generalization](https://arxiv.org/abs/2004.01377)
-	- Domain Gneralization
-
 - 2020/04/01 arxiv [Memory-Efficient Incremental Learning Through Feature Adaptation](https://arxiv.org/abs/2004.00713)
 
-- 2020/04/02 arxiv [Alleviating Semantic-level Shift: A Semi-supervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2004.00794)
-	- semi-supervised;
 	
 - 2020/03/31 arxiv [Graph Domain Adaptation for Alignment-Invariant Brain Surface Segmentation](https://arxiv.org/abs/2004.00074)
 
 - 2020/04/01 cvpr-20 [Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge](https://arxiv.org/abs/2004.00176)
 
-- 2020/04/01 arxiv [Self-Augmentation: Generalizing Deep Networks to Unseen Classes for Few-Shot Learning](https://arxiv.org/abs/2004.00251)
-
-- 2020/03/30 CVPR-20 [Semi-supervised Learning for Few-shot Image-to-Image Translation](https://arxiv.org/abs/2003.13853)
-	- semisupervised img-2-img translation
-
-- 2020/03/31 CVPR-20 [FGN: Fully Guided Network for Few-Shot Instance Segmentation](https://arxiv.org/abs/2003.13954)
-	- Few-Shot Instance Segmentation
 
 - 2020/03/31 CVPR-20 Oral [BANet: Bidirectional Aggregation Network with Occlusion Handling for Panoptic Segmentation](https://arxiv.org/abs/2003.14031)
 	- Panaoptic Segmentation
@@ -118,29 +94,16 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 - 2020/03/29 arxiv [Self-Supervised Learning for Domain Adaptation on Point-Clouds](https://arxiv.org/abs/2003.12641)
 	- SSL; DA; Point-Clouds
 
-- 2020/03/27 ICCV-19 [Deep CG2Real: Synthetic-to-Real Translation via Image Disentanglement](https://arxiv.org/abs/2003.12649)
 
-- 2020/03/28 arxiv [Learning Invariant Representation for Unsupervised Image Restoration](https://arxiv.org/abs/2003.12769)
-
-- 2020/03/28 CVPR-20 Oral [Cross-domain Detection via Graph-induced Prototype Alignment](https://arxiv.org/abs/2003.12849)
-
-- 2020/03/28 CVPR-20 [One-Shot Domain Adaptation For Face Generation](https://arxiv.org/abs/2003.12869)
-
-- 2020/03/29 arxiv [Mutual Learning Network for Multi-Source Domain Adaptation](https://arxiv.org/abs/2003.12944)
-	- Multi-Source 
-
-- 2020/03/29 arxiv [Spatial Attention Pyramid Network for Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.12979)
 
 - 2020/03/30 CVPR-20 [Gradually Vanishing Bridge for Adversarial Domain Adaptation](https://arxiv.org/abs/2003.13183)
 
 - 2020/03/30 CVPR-20 [Domain-aware Visual Bias Eliminating for Generalized Zero-Shot Learning](https://arxiv.org/abs/2003.13261)
 
-- 2020/03/30 arxiv [PANDA: Prototypical Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.13274)
-
 - 2020/03/27 arxiv [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243)
 	- important
 
-- 2020/03/27 arxiv [Generalizable Semantic Segmentation via Model-agnostic Learning and Target-specific Normalization](https://arxiv.org/abs/2003.12296)
+
 
 - 2020/03/25 CVPR-20 [iTAML: An Incremental Task-Agnostic Meta-learning Approach](https://arxiv.org/abs/2003.11652)
 
