@@ -30,6 +30,7 @@
 - 2020/04/16 CVPR Oral [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703)
 	- Inter-DA; Entropy-based Ranking; Intra-DA
 	- Previous works have considered directly adapting models from the source data to the unlabeled target data (to reduce the inter-domain gap). Nonetheless, these techniques do not consider the large distribution gap among the target data itself (intra-domain gap).
+	- Baseline为ADVENT, stage 1 用ADVENT得到target domain 所有图片的Entropy img, 然后根据entropy img 对target img 排序，然后split成Hard, Easy sample, 在进一步针对Hard, Easy samples之间存在的domain gap再用一次ADVENT，其中easy split作为source, 并生成pesudo labels.
 
 - 2020/04/14 arxiv [Rectifying Pseudo Label Learning via Uncertainty Estimation for Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2003.03773)
 	- Focus on obtaining and selecting high-quality proxy labels by incorporating both the confidence of the class predictor and that from the adversarial discriminators. Discriminators not only work as a regularizer to encourage feature alignment but also provide an alternative confidence measure for generating proxy labels.
