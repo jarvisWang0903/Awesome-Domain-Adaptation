@@ -110,3 +110,5 @@ Transferability of Deep Neural Networks](https://papers.nips.cc/paper/8470-trans
 
 - 2020/04/09 CVPR-20 [Universal Source-Free Domain Adaptation](https://arxiv.org/abs/2004.04393)
 	- TODO;
+## 1.11 Constrastive learning
+- 2020/01/09 CVPR-19 [Contrastive Adaptation Network for Unsupervised Domain Adaptation](https://arxiv.org/abs/1901.00976)
