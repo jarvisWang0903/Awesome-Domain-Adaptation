@@ -16,6 +16,7 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 **A good website to see the latest arXiv preprints by search: [Domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)**
 
 - **Weekly latest papers**
+-2020/02/06 WACVW [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/abs/2002.02559)
 
 - 2020/04/29 MIDL-20 [An Auto-Encoder Strategy for Adaptive Image Segmentation](https://arxiv.org/abs/2004.13903)
 
