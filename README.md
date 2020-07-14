@@ -17,6 +17,41 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+- :satr: :satr: 2020/06/22 arxiv [Feature Alignment and Restoration for Domain Generalization and Adaptation](https://arxiv.org/abs/2006.12009)
+
+- 2020/06/20 IJCAI-20 [Unsupervised Vehicle Re-identification with Progressive Adaptation](https://arxiv.org/abs/2006.11486)
+
+- 2020/06/11 arxiv [Auto-Encoding for Shared Cross Domain Feature Representation and Image-to-Image Translation](https://arxiv.org/abs/2006.11404)
+
+- :star: arxiv [Calibrated Adversarial Refinement for Multimodal Semantic Segmentation](https://arxiv.org/abs/2006.13144)
+
+- :satr: arxiv [Bridging the Theoretical Bound and Deep Algorithms for Open Set Domain Adaptation](https://arxiv.org/abs/2006.13022)
+
+- 2020/06/21 arxiv [FNA++: Fast Network Adaptation via Parameter Remapping and Architecture Search](https://arxiv.org/abs/2006.12986)
+
+- :satr: 2020/07/24 arxiv [Discriminative Feature Alignment: Improving Transferability of Unsupervised Domain Adaptation by Gaussian-guided Latent Alignment](https://arxiv.org/abs/2006.12770)
+
+- 2020/06/23 arxiv [Contrastive Generative Adversarial Networks](https://arxiv.org/abs/2006.12681)
+
+- 2020/06/24 arxiv [Insights from the Future for Continual Learning](https://arxiv.org/abs/2006.13748)
+
+- :satr: 2020/07/03 arxiv [Rethinking Distributional Matching Based Domain Adaptation](https://arxiv.org/abs/2006.13352)
+
+- 2020/06/26 arxiv [Domain Contrast for Domain Adaptive Object Detection](https://arxiv.org/abs/2006.14863)
+
+- 2020/06/30 arxiv [A survey of loss functions for semantic segmentation](https://arxiv.org/abs/2006.14822)
+
+- 2020/06/29 arxiv [Graph Optimal Transport for Cross-Domain Alignment](https://arxiv.org/abs/2006.14744)
+
+- 2020/06/30 arxiv [Progressive Graph Learning for Open-Set Domain Adaptation](https://arxiv.org/abs/2006.12087)
+
+- 2020/06/30 arxiv [PriorGAN: Real Data Prior for Generative Adversarial Nets](https://arxiv.org/abs/2006.16990)
+
+- 2020/06/28 WACV-20 [Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation
+](https://arxiv.org/abs/2006.16806)
+
+- 2020/06/30 [Leveraging Temporal Information for 3D Detection and Domain Adaptation](https://arxiv.org/abs/2006.16796)
+
 - :star: 2020/06/30 arxiv [Maximum Entropy Models for Fast Adaptation](https://arxiv.org/abs/2006.16524)
 
 - 2020/07/08 arxiv [Open Set Domain Adaptation with Multi-Classifier Adversarial Network](https://arxiv.org/abs/2007.00384)
