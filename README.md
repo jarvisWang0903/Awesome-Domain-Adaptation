@@ -17,6 +17,46 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+
+- 2020/07/12 arxiv [Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition
+](https://arxiv.org/abs/2007.05932)
+
+- 2020/07/11 NN [Relation-Guided Representation Learning
+](https://arxiv.org/abs/2007.05742)
+
+- 2020/07/11 arxiv [Coarse-to-Fine Pseudo-Labeling Guided Meta-Learning for Few-Shot Classification](https://arxiv.org/abs/2007.05675)
+
+- 2020/07/07 ECCV-20 [Learning to Generate Novel Domains for Domain Generalization](https://arxiv.org/abs/2007.03304)
+
+- 2020/07/07 MICCAI-20 [Self domain adapted network](https://arxiv.org/abs/2007.03162)
+
+- 2020/07/07 arxiv [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/abs/2007.03141)
+
+- 2020/07/06 arxiv [Metric-Guided Prototype Learning](https://arxiv.org/abs/2007.03047)
+
+- 2020/07/08 ECCV-20 [SegFix: Model-Agnostic Boundary Refinement for Segmentation](https://arxiv.org/abs/2007.04269)
+	- model-agnostic post-processing scheme, improve boundary quality
+
+- 2020/07/08 arxiv [Synthetic-to-Real Domain Adaptation for Lane Detection](https://arxiv.org/abs/2007.04023)
+
+- 2020/07/08 arxiv [Consistency Regularization with Generative Adversarial Networks for Semi-Supervised Image Classification](https://arxiv.org/abs/2007.03844)
+
+- 2020/07/07 arxiv [README: REpresentation learning by fairness-Aware Disentangling MEthod](https://arxiv.org/abs/2007.03775)
+
+- 2020/07/09 arxiv [Improving Style-Content Disentanglement in Image-to-Image Translation](https://arxiv.org/abs/2007.04964)
+	- style-content disentanglement img-2-img translation
+
+- 2020/07/09 arxiv [Patient-Specific Domain Adaptation for Fast Optical Flow Based on Teacher-Student Knowledge Transfer](https://arxiv.org/abs/2007.04928)
+
+- 2020/07/09 NIPS-19 workshop [InfoMax-GAN: Improved Adversarial Image Generation via Information Maximization and Contrastive Learning](https://arxiv.org/abs/2007.04589)
+
+- 2020/07/10 ECCV-20 [Improving Adversarial Robustness by Enforcing Local and Global Compactness](https://arxiv.org/abs/2007.05123)
+
+- 2020/07/09 arxiv  [DCANet: Learning Connected Attentions for Convolutional Neural Networks](https://arxiv.org/abs/2007.05099)
+
+- - - - - - -  
+
+
 - 2020/02/06 WACVW [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/abs/2002.02559)
 
 - 2020/04/29 MIDL-20 [An Auto-Encoder Strategy for Adaptive Image Segmentation](https://arxiv.org/abs/2004.13903)
