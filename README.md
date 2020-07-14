@@ -15,7 +15,45 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 **A good website to see the latest arXiv preprints by search: [Domain adaptation](http://arxitics.com/search?q=domain%20adaptation&sort=updated)**
 
-- **Weekly latest papers**
+- **Weekly latest papers** 
+
+- 2020/06/14 arxiv [Multi-Miner: Object-Adaptive Region Mining for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2006.07834)
+
+- 2020/06/14 arxiv [Domain Adaptation and Image Classification via Deep Conditional Adaptation Network](https://arxiv.org/abs/2006.07776)
+
+- 2020/06/13 arxiv [Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://arxiv.org/abs/2006.07529)
+
+- 2020/06/16 arxiv [Domain Adaptation with Morphologic Segmentation
+](https://arxiv.org/abs/2006.09322)
+
+- 2020/06/16 arxiv [DSDANet: Deep Siamese Domain Adaptation Convolutional Neural Network for Cross-domain Change Detection](https://arxiv.org/abs/2006.09225)
+
+- 2020/06/16 CVPR-20 [RL-CycleGAN: Reinforcement Learning Aware Simulation-To-Real](https://arxiv.org/abs/2006.09001)
+
+- 2020/06/15 CVPR-20 Workshop [ESL: Entropy-guided Self-supervised Learning for Domain Adaptation in Semantic Segmentation
+](https://arxiv.org/abs/2006.08658)
+
+- :star: :star: 2020/06/16 arxiv [Mining Label Distribution Drift in Unsupervised Domain Adaptation](https://arxiv.org/abs/2006.09565)
+
+- 2020/06/27 PR [Simple and effective localized attribute representations for zero-shot learning](https://arxiv.org/abs/2006.05938)
+
+- 2002/06/18 arxiv [Fully Test-time Adaptation by Entropy Minimization
+](https://arxiv.org/abs/2006.10726)
+
+- 2020/06/18 CVPR-20 [Online Deep Clustering for Unsupervised Representation Learning](https://arxiv.org/abs/2006.10645)
+
+- 2020/06/16 arxiv [Gradient Amplification: An efficient way to train deep neural networks](https://arxiv.org/abs/2006.10560)
+
+- 2020/06/18 arxiv [Contrastive learning of global and local features for medical image segmentation with limited annotations](https://arxiv.org/abs/2006.10511)
+
+- 2020/06/18 arxiv [Learning High-Resolution Domain-Specific Representations with a GAN Generator
+](https://arxiv.org/abs/2006.10451)
+
+- :star: 2020/06/18 arxiv [SceneAdapt: Scene-based domain adaptation for semantic segmentation using adversarial learning](https://arxiv.org/abs/2006.10386)
+
+- 2020/06/18 arxiv [Joint Contrastive Learning for Unsupervised Domain Adaptation](https://arxiv.org/abs/2006.10297)
+
+- 2020/05/23 arxiv [Interpreting the Latent Space of GANs via Correlation Analysis for Controllable Concept Manipulation](https://arxiv.org/abs/2006.10132)
 
 - :star: :star: 2020/06/22 arxiv [Feature Alignment and Restoration for Domain Generalization and Adaptation](https://arxiv.org/abs/2006.12009)
 
