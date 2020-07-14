@@ -17,6 +17,39 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers**
 
+- :star: 2020/06/30 arxiv [Maximum Entropy Models for Fast Adaptation](https://arxiv.org/abs/2006.16524)
+
+- 2020/07/08 arxiv [Open Set Domain Adaptation with Multi-Classifier Adversarial Network](https://arxiv.org/abs/2007.00384)
+
+- 2020/07/01 RSS-20 [Online Domain Adaptation for Occupancy Mapping](https://arxiv.org/abs/2007.00164)
+
+- 2020/07/02 arxiv [Curriculum Manager for Source Selection in Multi-Source Domain Adaptation](https://arxiv.org/abs/2007.01261)
+
+- 2020/07/03 ICML-20 [Continuously Indexed Domain Adaptation](https://arxiv.org/abs/2007.01807)
+
+- 2020/07/03 ECCV-20 [Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN](https://arxiv.org/abs/2007.01571)
+
+- 2020/07/13 ECCV-20 [Multiple Expert Brainstorming for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2007.01546)
+
+- 2020/07/11 arxiv [Domain Adaptation without Source Data
+](https://arxiv.org/abs/2007.01524)
+
+- :star: 2020/07/02 arxiv [Learn Faster and Forget Slower via Fast and Stable Task Adaptation](https://arxiv.org/abs/2007.01388)
+
+- 2020/07/06 MICCAI-20 [Dynamic memory to alleviate catastrophic forgetting in continuous learning settings](https://arxiv.org/abs/2007.02639) 
+
+- 2020/07/05 ECCV-20 Oral [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/abs/2007.02454)
+
+- :satr: 2020/07/05 ECCV-20 [Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation]
+(https://arxiv.org/abs/2007.02424)
+
+- 2020/07/05 arxiv [Meta-Semi: A Meta-learning Approach for Semi-supervised Learning](https://arxiv.org/abs/2007.02394)
+
+- 2020/07/05 ISPRS [Weakly Supervised Domain Adaptation for Built-up Region Segmentation in Aerial and Satellite Imagery](https://arxiv.org/abs/2007.02277)
+
+- :star: 2020/07/03 ECCV-20 Oral [Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2007.01947)
+
+- 2020/07/07 MICCAI-20 [Scribble-based Domain Adaptation via Co-segmentation](https://arxiv.org/abs/2007.03632)
 
 - 2020/07/12 arxiv [Pose-aware Adversarial Domain Adaptation for Personalized Facial Expression Recognition
 ](https://arxiv.org/abs/2007.05932)
