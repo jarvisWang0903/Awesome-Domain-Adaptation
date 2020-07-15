@@ -17,6 +17,22 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 
 - **Weekly latest papers** 
 
+- 2020/07/11 CVPR-20 Workshop [Batch-level Experience Replay with Review for Continual Learning](https://arxiv.org/abs/2007.05683)
+
+- 2020/07/14 arxiv [Multitask Learning Strengthens Adversarial Robustness](https://arxiv.org/abs/2007.07236)
+
+- 2020/07/14 MICCAI-20 [Cross-Domain Medical Image Translation by Shared Latent Gaussian Mixture Model](https://arxiv.org/abs/2007.07230)
+
+- 2020/07/05 TIP [https://arxiv.org/abs/2007.07222](https://arxiv.org/abs/2007.07222)
+
+- 2020/07/14 WACV-20 [Unsupervised Multi-Target Domain Adaptation Through Knowledge Distillation](https://arxiv.org/abs/2007.07077)
+
+- 2020/07/14 ICML-20 [Automated Synthetic-to-Real Generalization](https://arxiv.org/abs/2007.06965)
+
+- 2020/07/14 ECCV-20 Oral [TCGM: An Information-Theoretic Framework for Semi-Supervised Multi-Modality Learning](https://arxiv.org/abs/2007.06793)
+
+- 2020/07/14 ECCV-20 [Semi-supervised Learning with a Teacher-student Network for Generalized Attribute Prediction]
+
 - 2020/06/14 arxiv [Multi-Miner: Object-Adaptive Region Mining for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2006.07834)
 
 - 2020/06/14 arxiv [Domain Adaptation and Image Classification via Deep Conditional Adaptation Network](https://arxiv.org/abs/2006.07776)
