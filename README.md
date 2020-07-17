@@ -8,7 +8,17 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 	- [0.Latest Publications](#0latest-publications)
 	- [1.Introduction and Tutorials](#1introduction-and-tutorials)
 	- [2.Domain Adaptation Areas and Papers](#2domain-adaptation-areas-and-papers)
-	- [7.Datasets and Benchmarks](#7datasets-and-benchmarks)
+	- [3.Datasets and Benchmarks](#3datasets-and-benchmarks)
+- [Other novel papers](#4other-novel-papers)
+    - [0.Meta Learning]()
+    - [1.Life-long Learing]()
+    - [3.GAN]()
+    - [4.zero / Few-shot Learning]()
+    - [5.Multi-task learning]()
+    - [6.Representation Learning]()
+    - [7.Other Interesting Works]()
+
+
 - - -
 
 ## 0.Latest Publications
@@ -89,9 +99,6 @@ A curated list of domain adaptation papers, tutorials, datasets and other resour
 - 2020/07/07 MICCAI-20 [Self domain adapted network](https://arxiv.org/abs/2007.03162)
 
 
-
-
-
 - - -
 
 ## 1.Introduction and Tutorials
@@ -112,9 +119,17 @@ Related articles by research areas:
 - [Detection](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Detection.md)
 - ...
 
-
-
-
 ## 3.Datasets and Benchmarks
 
 Please see [HERE](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Datasets%20and%20benchmarks.md) for the popular domain adaptation**datasets and certain benchmark** results.
+
+## 4.Other novel papers
+
+Related articles by research areas:
+- [Meta Learning](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#11meta-learning)
+- [Life-long Learing](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#12-life-long-learing)
+- [GAN](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#13-gan)
+- [zero / Few-shot Learning](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#14-zero--few-shot-learning)
+- [Multi-task learning](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#15-multi-task-learning)
+- [Representation Learning](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#16-representation-learning)
+- [Other Interesting Works](https://github.com/jarvisWang0903/Awesome-Domain-Adaptation/blob/master/doc/Interesting%20paper.md#17-other-interesting-works)
