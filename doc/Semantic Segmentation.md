@@ -24,8 +24,26 @@
 
 ### 1.1.2. Deep / Adversarial Methods
 
+- 2020/07/07 MICCAI-20 [Scribble-based Domain Adaptation via Co-segmentation](https://arxiv.org/abs/2007.03632)
+
+- 2020/07/05 ISPRS [Weakly Supervised Domain Adaptation for Built-up Region Segmentation in Aerial and Satellite Imagery](https://arxiv.org/abs/2007.02277)
+
+- :satr: 2020/07/05 ECCV-20 [Contextual-Relation Consistent Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2007.02424)
+
+- 2020/06/28 WACV-20 [Uncertainty-aware multi-view co-training for semi-supervised medical image segmentation and domain adaptation](https://arxiv.org/abs/2006.16806)
+
+- 2020/04/29 MIDL-20 [An Auto-Encoder Strategy for Adaptive Image Segmentation](https://arxiv.org/abs/2004.13903)
 
 - 2020/04/24 CVPR-20 [What Can Be Transferred: Unsupervised Domain Adaptation for Endoscopic Lesions Segmentation](https://arxiv.org/abs/2004.11500)
+
+- 2020/04/19 arxiv [Uncertainty-Aware Consistency Regularization for Cross-Domain Semantic Segmentation](https://arxiv.org/abs/2004.08878)
+	- TODO; Uncertainty; tearcher-student model
+
+- 2020/04/17 arxiv [IDDA: a large-scale multi-domain dataset for autonomous driving](https://arxiv.org/abs/2004.08298)
+	- dataset; multi-domain DA;
+
+- 2020/04/16 arxiv [Unsupervised Learning of Landmarks based on Inter-Intra Subject Consistencies](https://arxiv.org/abs/2004.07936)
+	- inter-intra subkect consistencies; unsupervised learning
 
 - 2020/04/16 CVPR Oral [Unsupervised Intra-domain Adaptation for Semantic Segmentation through Self-Supervision](https://arxiv.org/abs/2004.07703)
 	- Inter-DA; Entropy-based Ranking; Intra-DA
@@ -44,6 +62,9 @@
 - 2020/04/10 arxiv [Phase Consistent Ecological Domain Adaptation](https://arxiv.org/abs/2004.04923)
 	-TODO
 
+- 2020/04/09 CVPR-20 [Instance-aware, Context-focused, and Memory-efficient Weakly Supervised Object Detection](https://arxiv.org/abs/2004.04725)
+	- Object Ddetection
+
 - 2020/04/05 arxiv [ADVERSARIAL-PREDICTION GUIDED MULTI-TASK ADAPTATION FOR SEMANTIC SEGMENTATION OF ELECTRON MICROSCOPY IMAGES](https://arxiv.org/abs/2004.02134) [code]
     - Electron microscopy (EM) image analysis;
 
@@ -53,12 +74,19 @@
 
 - 2020/03/29 arxiv [Spatial Attention Pyramid Network for Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.12979)
 
+- 2020/03/31 arxiv [Graph Domain Adaptation for Alignment-Invariant Brain Surface Segmentation](https://arxiv.org/abs/2004.00074)
+
 - 2020/03/30 arxiv [PANDA: Prototypical Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.13274)
+
+- 2020/03/29 arxiv [Self-Supervised Learning for Domain Adaptation on Point-Clouds](https://arxiv.org/abs/2003.12641)
+	- SSL; DA; Point-Clouds
 
 - 2020/03/27 arxiv [Generalizable Semantic Segmentation via Model-agnostic Learning and Target-specific Normalization](https://arxiv.org/abs/2003.12296)
 
 - 2020/03/18 CVPR-20 [Differential Treatment for Stuff and Things: A Simple Unsupervised Domain Adaptation Method for Semantic Segmentation](https://arxiv.org/abs/2003.08040) [code]()
 	- Based on the observation that stuff categories usually share similar appearances across images of different domains while things (i.e. object instances) have much larger differences, we propose to improve the semantic-level alignment with different strategies for stuff regions and for things.
+
+- 2020/02/06 WACVW [Impact of ImageNet Model Selection on Domain Adaptation](https://arxiv.org/abs/2002.02559)
 
 - 2020/01/09 CVPR-2019 [CrDoCo: Pixel-level Domain Transfer with Cross-Domain Consistency](https://arxiv.org/abs/2001.03182) [code](https://github.com/YunChunChen/CrDoCo-pytorch)
 	- Image translation(src-2-trg + trg-2-src), Cross-Domain Consistency 
@@ -127,6 +155,8 @@
 	- CyCADA adapts representations at both the pixel-level and feature-level, enforces cycle-consistency while leveraging a task loss, and does not require aligned pairs.
 
 ## 1.2. Domain Generalization
+
+- 2020/07/05 ECCV-20 Oral [Self-Challenging Improves Cross-Domain Generalization](https://arxiv.org/abs/2007.02454)
 
 - 2020/04/03 arxiv [Sequential Learning for Domain Generalization](https://arxiv.org/abs/2004.01377)
 	- Domain Gneralization

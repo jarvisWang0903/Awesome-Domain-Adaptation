@@ -1,11 +1,11 @@
 # 1. Awesome Domain Adaptation For Semantic Segmentation Papers
 
 - [1. Awesome Domain Adaptation For Semantic Segmentation Papers](#1-awesome-domain-adaptation-for-semantic-segmentation-papers)
-  - [- 1.10. Source Free Domain Adaptation](#ul-li110-source-free-domain-adaptationli-ul)
+  - [- 1.11 Constrastive learning](#ulli111-constrastive-learningliul)
   - [1.1.General Domain Adaptation](#11general-domain-adaptation)
     - [1.1.1. Traditional Methods](#111-traditional-methods)
     - [1.1.2. Deep / Adversarial Methods](#112-deep--adversarial-methods)
-    - [1.1.3. Normalization Adaptation Methods](#113-normalization-methods)
+    - [1.1.3. Normalization Adaptation Methods](#113-normalization-adaptation-methods)
   - [1.2. Domain Generalization](#12-domain-generalization)
   - [1.3. Multi-source Domain Adaptation](#13-multi-source-domain-adaptation)
   - [1.4. Multi-target Domain Adaptation](#14-multi-target-domain-adaptation)
@@ -15,6 +15,7 @@
   - [1.8. Partial Domain Adaptation](#18-partial-domain-adaptation)
   - [1.9. Zero-shot / Few-shot Domain Adaptation](#19-zero-shot--few-shot-domain-adaptation)
   - [1.10. Source Free Domain Adaptation](#110-source-free-domain-adaptation)
+  - [1.11 Constrastive learning](#111-constrastive-learning)
 ---
 
 ## 1.1.General Domain Adaptation
@@ -22,6 +23,38 @@
 ### 1.1.1. Traditional Methods
 
 ### 1.1.2. Deep / Adversarial Methods
+
+
+
+- :star: 2020/07/03 ICML-20 [Continuously Indexed Domain Adaptation](https://arxiv.org/abs/2007.01807)
+
+- :star: 2020/07/07  ECCV-20 [Learning to Generate Novel Domains for Domain Generalization](https://arxiv.org/abs/2007.03304)
+
+- 2020/07/07 arxiv [Dual Mixup Regularized Learning for Adversarial Domain Adaptation](https://arxiv.org/abs/2007.03141)
+
+- :star: 2020/07/03 arxiv [Rethinking Distributional Matching Based Domain Adaptation](https://arxiv.org/abs/2006.13352)
+
+- 2020/07/01 RSS-20 [Online Domain Adaptation for Occupancy Mapping](https://arxiv.org/abs/2007.00164)
+
+- :star: 2020/06/30 arxiv [Maximum Entropy Models for Fast Adaptation](https://arxiv.org/abs/2006.16524)
+
+- 2020/04/27 IJCAI-20 [Towards Accurate and Robust Domain Adaptation under Noisy Environments](https://arxiv.org/abs/2004.12529) 
+
+- :star: 2020/04/27 TPAMI [Maximum Density Divergence for Domain Adaptation](https://arxiv.org/abs/2004.12615)
+
+- 2020/04/26 arxiv [Cross-Domain Structure Preserving Projection for Heterogeneous Domain Adaptation](https://arxiv.org/abs/2004.12427)
+
+- 2020/04/24 IROS-20 [Explicit Domain Adaptation with Loosely Coupled Samples](https://arxiv.org/abs/2004.11995)
+
+- 2020/04/23 arxiv [Supervised Domain Adaptation: Were we doing Graph Embedding all along?](https://arxiv.org/abs/2004.11262)
+
+- :star: 2020/04/23 arxiv [Metric-Learning-Assisted Domain Adaptation](https://arxiv.org/abs/2004.10963)
+
+
+- 2020/04/17 arxiv [Learning to Predict Context-adaptive Convolution for Semantic Segmentation](https://arxiv.org/abs/2004.08222)
+	- context-adaptive conv; segmentaiton
+
+- 2020/04/15 arxiv [Extreme Consistency: Overcoming Annotation Scarcity and Domain Shifts](https://arxiv.org/abs/2004.11966)
 
 - 2020/04/12 arxiv [PANDA: Prototypical Unsupervised Domain Adaptation](https://arxiv.org/abs/2003.13274)
 	- TODO
@@ -31,6 +64,12 @@
 
 - 2020/04/03 [Unsupervised Domain Adaptation with Progressive Domain Augmentation](https://arxiv.org/abs/2004.01735)
 	- TODO
+
+- 2020/04/01 arxiv [Memory-Efficient Incremental Learning Through Feature Adaptation](https://arxiv.org/abs/2004.00713)
+
+- 2020/04/01 cvpr-20 [Knowledge as Priors: Cross-Modal Knowledge Generalization for Datasets without Superior Knowledge](https://arxiv.org/abs/2004.00176)
+
+- 2020/03/30 CVPR-20 [Gradually Vanishing Bridge for Adversarial Domain Adaptation](https://arxiv.org/abs/2003.13183)
 
 - 2019/07/03 CVPR-19 [Domain-Symmetric Networks for Adversarial Domain Adaptation](https://arxiv.org/abs/1904.04663) [code](https://github.com/YBZh/SymNets)
     - **SymNets** TODO
@@ -62,6 +101,8 @@ Transferability of Deep Neural Networks](https://papers.nips.cc/paper/8470-trans
 
 ## 1.3. Multi-source Domain Adaptation
 
+- 2020/07/02 arxiv [Curriculum Manager for Source Selection in Multi-Source Domain Adaptation](https://arxiv.org/abs/2007.01261)
+
 - 2020/04/09 arxiv [Online Meta-Learning for Multi-Source and Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2004.04398) 
 	- TODO;
 
@@ -74,6 +115,10 @@ Transferability of Deep Neural Networks](https://papers.nips.cc/paper/8470-trans
     - This Blending-target Domain Adaptation (BTDA) scenario commonly appears in practice and threatens the validities of most existing DA algorithms, due to the presence of domain gaps and categorical misalignments among these hidden sub-targets.
 
 ## 1.6. OpenSet Domain Adaptation
+
+- 2020/07/08 arxiv [Open Set Domain Adaptation with Multi-Classifier Adversarial Network](https://arxiv.org/abs/2007.00384)
+
+- 2020/06/30 arxiv [Progressive Graph Learning for Open-Set Domain Adaptation](https://arxiv.org/abs/2006.12087)
 
 - 2020/04/09 CVPR-20 [Towards Inheritable Models for Open-Set Domain Adaptation](https://arxiv.org/abs/2004.04388)
 	- TODO
@@ -107,6 +152,8 @@ Transferability of Deep Neural Networks](https://papers.nips.cc/paper/8470-trans
 -  2020/03/19 arxiv [Domain-Adaptive Few-Shot Learning](https://arxiv.org/abs/2003.08626)
 
 ## 1.10. Source Free Domain Adaptation
+
+- 2020/07/11 arxiv [Domain Adaptation without Source Data](https://arxiv.org/abs/2007.01524)
 
 - 2020/04/09 CVPR-20 [Universal Source-Free Domain Adaptation](https://arxiv.org/abs/2004.04393)
 	- TODO;

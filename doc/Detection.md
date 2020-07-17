@@ -19,6 +19,15 @@
 
 ### 1.1.2. Deep / Adversarial Methods
 
+- 2020/07/08 arxiv [Synthetic-to-Real Domain Adaptation for Lane Detection](https://arxiv.org/abs/2007.04023)
+
+- 2020/07/03 ECCV-20 [Domain Adaptive Object Detection via Asymmetric Tri-way Faster-RCNN](https://arxiv.org/abs/2007.01571)
+
+- 2020/06/30 [Leveraging Temporal Information for 3D Detection and Domain Adaptation](https://arxiv.org/abs/2006.16796)
+
+
+- 2020/06/26 arxiv [Domain Contrast for Domain Adaptive Object Detection](https://arxiv.org/abs/2006.14863)
+
 - 2020/04/05  arxiv [Deeply Aligned Adaptation for Cross-domain Object Detection](https://arxiv.org/abs/2004.02093)
 
 - 2020/03/28 CVPR-20 Oral [Cross-domain Detection via Graph-induced Prototype Alignment](https://arxiv.org/abs/2003.12849)
